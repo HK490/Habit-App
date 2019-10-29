@@ -17,7 +17,6 @@ Changing backgrounds and other alternating features for better user interface
 1. Create account
 2. Login
 3. Have access to spotify music, timer, alarm, calendar, to-do list, and progress chart
-
 ---------------------------------------------------------------------------------------------------
 
 1. Without an Account - Have access to timer and alarm.
