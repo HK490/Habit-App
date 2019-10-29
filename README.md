@@ -10,7 +10,9 @@ Efficient track/maintenance of time
 Convenient daily task reminder/ checklist/goals
 - User can input any tasks/goals
 - User can check off any tasks completed
+
 Access of music via Spotify as an alarm vs. mundane alarm sounds
+
 Changing backgrounds and other alternating features for better user interface
 
 
