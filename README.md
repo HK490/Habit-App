@@ -4,13 +4,13 @@
 An app that allows users to login and have access to personalized Spotify music, timer, alarm, calendar to-do list, and progress chart
 
 # Value
-1. Efficient track/maintenance of time
+Efficient track/maintenance of time
 - User can set timer or an alarm for any tasks requiring time limits
-2. Convenient daily task reminder/ checklist/goals
+Convenient daily task reminder/ checklist/goals
 - User can input any tasks/goals
 - User can check off any tasks completed
-3. Access of music via Spotify as an alarm vs. mundane alarm sounds
-4. Changing backgrounds and other alternating features for better user interface
+Access of music via Spotify as an alarm vs. mundane alarm sounds
+Changing backgrounds and other alternating features for better user interface
 
 
 # Instructions
