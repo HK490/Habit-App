@@ -1,7 +1,7 @@
 # Habit App
 
 # Link
-https://hk490.github.io/Habit-App/.
+
 
 # Purpose
 An app that allows users to login and have access to personalized Spotify music, timer, alarm, calendar to-do list, and progress chart
