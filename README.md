@@ -28,4 +28,4 @@ Changing backgrounds and other alternating features for better user interface
 1. Without an Account - Have access to timer and alarm.
 
 # Technologies/ Languages
-HTML, CSS,, Ant Design,  JavaScript , React, MongoDB, Mongoose,  Express , App, Path, PORT, Heroku
+HTML, CSS, Ant Design,  JavaScript , React, MongoDB, Mongoose,  Express , App, Path, PORT, Heroku
